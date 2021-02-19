@@ -1,7 +1,7 @@
 member:
  rent:
   min: 5
-  max: 40
+  max: 4000000
  price:
   discount: 3.5
 vehicle:
